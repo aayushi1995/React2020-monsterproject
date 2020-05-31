@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+h1 {
+  font-family: 'Creepster', cursive;
+  font-size: 60px;
+  margin: 5vw 0px;
+}
